@@ -134,6 +134,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - À comunidade Java por fornecer tantos recursos incríveis.
 - Aos amantes de pizza por inspirar este projeto. 🍕
+- E a você que viu e apoiou meu projeto. 🙏🏻
 
 ---
 
